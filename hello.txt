@@ -1,4 +1,0 @@
-hello world
-this is my first commit file
-commit without staging 
-I have added a new branch 
